@@ -5,3 +5,11 @@ Cinematic portrait:
 Fantasy character:
   Positive prompt: full body portrait of a female elven archer, intricate leather armor, forest background, dappled sunlight, concept art, Greg Rutkowski, highly detailed, fantasy illustration, 8k
   Negative prompt: deformed, bad anatomy, extra limbs, blurry, low quality, watermark, ugly face
+
+Oil painting portrait:
+  Positive prompt: portrait of an elderly woman, rembrandt lighting, oil on canvas, chiaroscuro, warm palette, loose brushwork, museum quality, 17th century Dutch masters style, intricate detail
+  Negative prompt: deformed, bad anatomy, blurry, watermark, cartoon, extra limbs
+
+Cyberpunk character:
+  Positive prompt: cyberpunk girl with neon hair, augmented eye implant, rain-soaked street, neon reflections, night scene, (rim lighting:1.2), cinematic, detailed face, 85mm, bokeh, 4k, hyper-realistic
+  Negative prompt: deformed, bad anatomy, blurry, watermark, cartoon, extra limbs
