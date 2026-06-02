@@ -1,0 +1,15 @@
+Space station interior:
+  Positive prompt:interior of a massive space station, observation deck, Earth visible through window, (dramatic lighting:1.2), retrofuturism, detailed sci-fi architecture, lens flare, concept art, cinematic, 8k
+  Negative prompt:fantasy, medieval, cartoon, low quality, blurry
+
+Cyberpunk city:
+  Positive prompt:cyberpunk megacity at night, (neon reflections on wet streets:1.2), towering skyscrapers, holographic advertisements, flying vehicles, dense urban, Blade Runner aesthetic, cinematic wide shot, highly detailed, 8k
+  Negative prompt:daylight, clean, rural, low quality, cartoon
+
+Robot portrait:
+  Positive prompt:portrait of a humanoid robot, soft expressive eyes, brushed titanium face, (subsurface scattering light:1.2), studio photography, shallow depth of field, 85mm, ultra-detailed, hyper-realistic, 4k
+  Negative prompt:cartoon, anime, blurry, ugly, low quality, human skin
+
+Starship cockpit:
+  Positive prompt:futuristic starship cockpit, (nebula visible through windshield:1.2), glowing control panels, dramatic lighting, cinematic framing, detailed sci-fi design, concept art, Syd Mead style, 8k
+  Negative prompt:modern airplane, fantasy, blurry, low quality
